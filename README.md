@@ -18,6 +18,7 @@ The YOLOv8 algorithm capitalizes on the strengths of the YOLOv8 architecture to 
 In the new notebook, run the following code to mount your Google Drive:
 
 `from google.colab import drive`
+
 `drive.mount('/content/gdrive/')`
 
 
